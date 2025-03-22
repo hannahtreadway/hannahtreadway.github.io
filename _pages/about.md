@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: bilingual sentence processing | code-switching | bilingualism & cognition across the lifespan
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello y ¡bienvenidos! I am a second-year PhD student in Hispanic Linguistics at the [University of Florida](https://spanishandportuguese.ufl.edu/graduate-programs/hispanic-linguistics-2/). I am co-advised by [Dr. Jorge Valdés Kroff](https://people.clas.ufl.edu/jvaldeskroff/) and [Dr. Edith Kaan](https://people.clas.ufl.edu/kaan/). I conduct research in the [Bilingual Sentence Processing Lab](https://bsplab.clas.ufl.edu/) and the [Brain, Language, and Bilingualism Lab](https://blab.lin.ufl.edu/).
+
+I use psycho-/neurolinguistic methods like eye-tracking and EEG to investigate the cognitive processes underlying (bilingual) language processing and code-switching. My work also considers how bilingualism might be modulatory of or interact with domain-general abilities, such as conflict adaptation, Theory of Mind, and even working memory in cognitive decline. At its core, my research is concerned with characterizing how the experiential dimensions of bilingualism impact real-time language processing and the cognitive mechanisms underlying it.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
