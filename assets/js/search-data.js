@@ -397,9 +397,9 @@ ninja.data = [{
             },},{id: "news-join-me-at-hsp2025-at-umd-for-my-presentation-on-recent-work-entitled-cognitive-control-adaptation-in-code-switching-an-erp-study",
           title: 'Join me at HSP2025 at UMD for my presentation on recent work entitled...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
