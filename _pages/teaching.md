@@ -19,7 +19,7 @@ nav_order: 6
 
 **Semester(s):** Summer B 2024
 
-**About:** The objectives of this course is to learn the terminology and expressions related to the human body and its functioning, medicine, and the patient-healthcare professional relationship; to develop linguistic and communicative competence by practicing oral production and listening comprehension skills; and to recognize/discern cultural cues that distinguish the attitudes, expectations, and point of view of Spanish speakers regarding medical emergencies, illnesses, treatments, and interactions with healthcare professionals.
+**About:** The objectives of this course are to learn the terminology and expressions related to the human body and its functioning, medicine, and the patient-healthcare professional relationship; to develop linguistic and communicative competence by practicing oral production and listening comprehension skills; and to recognize/discern cultural cues that distinguish the attitudes, expectations, and point of view of Spanish speakers regarding medical emergencies, illnesses, treatments, and interactions with healthcare professionals.
 Learning outcomes will include being able to articulate and understand conversations using medical expressions and terminology; performing basic healthcare professional functions such as conducting interviews, taking medical histories, performing physical examinations, taking family medical history, and communicating diagnoses and treatment; and being able to articulate, analyze, and apply their knowledge of intercultural issues.
 
 ## SPN 2340: Introduction to Reading and Writing for Spanish Heritage Speakers
