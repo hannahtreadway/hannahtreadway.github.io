@@ -417,9 +417,9 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-community-specific-code-switching-norms-and-online-comprehension-in-spanish-heritage-speakers",
-          title: 'Community-Specific Code-Switching Norms and Online Comprehension in Spanish Heritage Speakers',
-          description: "another without an image",
+            },},{id: "projects-online-comprehension-of-community-specific-code-switching-norms-in-spanish-heritage-speakers",
+          title: 'Online Comprehension of Community-Specific Code-Switching Norms in Spanish Heritage Speakers',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-effects-of-perceived-accent-on-code-switching-processing",
