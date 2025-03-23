@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Community-Specific Code-Switching Norms and Online Comprehension in Spanish Heritage Speakers
-description: another without an image
-img:
+title: Online Comprehension of Community-Specific Code-Switching Norms in Spanish Heritage Speakers
+description:
+img: /assets/img/HSCS.png
 importance: 3
 category: Current
 ---
