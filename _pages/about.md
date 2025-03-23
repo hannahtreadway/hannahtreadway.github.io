@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **bilingual sentence processing | code-switching | bilingualism & cognition across the lifespan**
+subtitle: bilingual sentence processing | code-switching | bilingualism & cognition across the lifespan
 
 profile:
   align: right
