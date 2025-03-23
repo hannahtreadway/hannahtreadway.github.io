@@ -5,7 +5,7 @@ description:
 img: assets/img/ToM.png
 importance: 3
 category: Current
-related_publications: true
+related_publications: false
 ---
 Theory of Mind (ToM), or the ability to felicitously assign mental states to others, has previously exhibited sensitivity to individual differences in verbal memory, working memory, executive control, and bilingual status. Recent studies reveal that bilinguals reliably outperform monolinguals on false-belief (FB) tasks, a signature of ToM proficiency. It remains unknown (1) which neural processes underlie the advantaged performance of bilingual adults on ToM tasks and (2) whether distinct bilingual typologies differentially modulate said processes.
 
