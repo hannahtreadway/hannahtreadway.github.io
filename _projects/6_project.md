@@ -7,74 +7,9 @@ importance: 3
 category: Current
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Language learning promotes neuroplasticity by engaging neurocognitive mechanisms such as processing speed, working memory, and executive functions. In aging, these mechanisms experience natural decline; however, long-term engagement of neurocognitive mechanisms can result in greater cognitive and neural reserve in aging. Previous research shows that new language training induces rapid brain changes and improves cognitive functions in children and younger adults. Relatively little is known however about the efficacy of novel, short-term language learning as a tool for promoting neurocognitive reserve and resilience for healthy older adults. The present study assesses the outcomes of a new language training intervention in healthy older adults on vocabulary acquisition and working memory.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Older monolingual adults (n = 14; 9 female; mean age 70.2; data collection ongoing) complete a behavioral (i.e. personal social network, category fluency, and narrative elicitation tasks) and EEG (i.e. resting state and n-back task) pre-test session after which they are randomly assigned to a Spanish Language Training (SLT) condition or an Active Control (AC) condition. After completing a daily training regimen for 36 days, participants return for a post-test session. **(Presented at [Psychonomics2024}(https://cdn.ymaws.com/www.psychonomic.org/resource/resmgr/annual_meeting/2024_meeting/abstract_book/2024_abstracts_final.pdf), [FPM2025](https://mll.fsu.edu/event/florida-psycholinguistics-meeting-2025), [NCF SfN](https://neuroscience.ufl.edu/outreach/sfn-north-central-fl-chapter/), and the [2025 Dallas Aging and Cognition Conference](https://dacc.utdallas.edu/program/)**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Funding Sources: This research is supported by Professional Development Funds awarded to Eleonora Rossi by the Evelyn F. and William L. McKnight Brain Institute at the University of Florida.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
