@@ -3,7 +3,7 @@ layout: cv
 permalink: /assets/pdf/TreadwayCV_March2025
 title: cv
 nav: true
-nav_order: 5
+nav_order: 1
 cv_pdf: TreadwayCV_March2025.pdf # you can also use external links here
 description:
 toc:
