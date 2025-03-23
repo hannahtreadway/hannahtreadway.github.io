@@ -397,12 +397,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-join-me-at-hsp2025-at-umd-for-my-presentation-on-recent-work-entitled-cognitive-control-adaptation-and-code-switching-an-erp-study",
+          section: "News",},{id: "news-join-me-at-hsp2025-at-umd-for-my-presentation-on-recent-work-entitled-cognitive-control-adaptation-and-code-switching-an-erp-study",
           title: 'Join me at HSP2025 at UMD for my presentation on recent work entitled...',
           description: "",
           section: "News",},{id: "projects-project-1",
