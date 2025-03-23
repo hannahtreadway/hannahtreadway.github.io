@@ -1,8 +1,8 @@
 ---
 layout: page
 title: The Neural Bases of Theory of Mind in Bilinguals
-description: with background image
-img: assets/img/4.jpg
+description:
+img: assets/img/ToM.png
 importance: 3
 category: Current
 related_publications: true
