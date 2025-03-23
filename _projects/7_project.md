@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
+title: The Neural Bases of Theory of Mind in Bilinguals
 description: with background image
 img: assets/img/4.jpg
-importance: 1
-category: work
+importance: 4
+category: Current
 related_publications: true
 ---
 
