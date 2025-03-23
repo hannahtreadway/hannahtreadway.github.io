@@ -42,7 +42,7 @@ ninja.data = [{
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Treadway%20CV%20(March%202025)";
+            window.location.href = "/assets/pdf/TreadwayCV_March%202025";
           },
         },{id: "nav-teaching",
           title: "teaching",
