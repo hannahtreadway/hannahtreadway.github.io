@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Treadway CV (March 2025)
+permalink: /assets/pdf/TreadwayCV_March 2025
 title: cv
 nav: true
 nav_order: 5
