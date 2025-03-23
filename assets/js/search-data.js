@@ -429,7 +429,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-new-language-training-promotes-neurocognitive-resilience-in-aging",
           title: 'New Language Training Promotes Neurocognitive Resilience in Aging',
-          description: "a project with no image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-the-neural-bases-of-theory-of-mind-in-bilinguals",
