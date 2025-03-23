@@ -399,12 +399,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-sensitivity-to-code-switching-asymmetries-in-l2-sentence-processing",
           title: 'Sensitivity to Code-Switching Asymmetries in L2 Sentence Processing',
-          description: "another project with an image 🎉",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-cognitive-control-adaptation-in-code-switching",
           title: 'Cognitive Control Adaptation in Code-Switching',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-the-role-of-exposure-to-spanish-english-code-switching",
