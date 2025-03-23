@@ -3,7 +3,7 @@ layout: page
 title: New Language Training Promotes Neurocognitive Resilience in Aging
 description: a project with no image
 img:
-importance: 4
+importance: 3
 category: Current
 ---
 
