@@ -427,8 +427,8 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
+            },},{id: "projects-the-neural-bases-of-theory-of-mind-in-bilinguals",
+          title: 'The Neural Bases of Theory of Mind in Bilinguals',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
