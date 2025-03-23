@@ -59,12 +59,7 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-join-me-this-week-at-hsp2025-for-my-presentation-on-recent-work-entitled-cognitive-control-adaptation-in-code-switching-an-erp-study",
+    },{id: "news-join-me-this-week-at-hsp2025-for-my-presentation-on-recent-work-entitled-cognitive-control-adaptation-in-code-switching-an-erp-study",
           title: 'Join me this week at HSP2025 for my presentation on recent work entitled...',
           description: "",
           section: "News",},{id: "projects-sensitivity-to-code-switching-asymmetries-in-l2-sentence-processing",
