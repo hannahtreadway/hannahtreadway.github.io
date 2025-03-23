@@ -5,7 +5,7 @@ description:
 img: assets/img/L2CS1.png
 importance: 1
 category: Current
-giscus_comments: true
+giscus_comments: false
 ---
 In offline judgment tasks, late Spanish learners of L1 English reliably intuit the acceptability of intrasentential Spanish-English code-switches, i.e., codeswitches between languages within the complementizer phrase. Are these felicitous intuitions mirrored in adult L2
 online processing?
