@@ -2,7 +2,7 @@
 layout: page
 title: Cognitive Control Adaptation in Code-Switching
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/CCCA.png
 importance: 1
 category: Current
 related_publications: true
