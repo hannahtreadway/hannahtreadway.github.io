@@ -7,11 +7,11 @@ subtitle: bilingual sentence processing | code-switching | bilingualism & cognit
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>001a Dauer Hall</p>
-    <p>Department of Spanish & Portuguese Studies</p>
-    <p>University of Florida</p>
+    <p>treadwayhannah@ufl.edu</p>
+    <p></p>
+    <p></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
