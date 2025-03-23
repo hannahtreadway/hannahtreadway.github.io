@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Effects of Perceived Accent on Code-Switching Processing
-description: a project with a background image
-img: assets/img/1.jpg
+description:
+img: assets/img/CSAccent.png
 importance: 2
 category: Current
 ---
