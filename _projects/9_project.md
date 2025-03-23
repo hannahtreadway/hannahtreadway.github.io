@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Analyzing Changes in VOT in Short-Term L2 Learning in Aging
-description: another project with an image 🎉
-img: assets/img/6.jpg
+description:
+img: assets/img/VOT.png
 importance: 4
 category: Current
 ---
