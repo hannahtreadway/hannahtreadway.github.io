@@ -394,10 +394,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-join-me-at-hsp2025-at-umd-for-my-presentation-on-recent-work-entitled-cognitive-control-adaptation-and-code-switching-an-erp-study",
+            },},{id: "news-join-me-at-hsp2025-at-umd-for-my-presentation-on-recent-work-entitled-cognitive-control-adaptation-and-code-switching-an-erp-study",
           title: 'Join me at HSP2025 at UMD for my presentation on recent work entitled...',
           description: "",
           section: "News",},{id: "projects-project-1",
