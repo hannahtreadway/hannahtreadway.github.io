@@ -2,7 +2,7 @@
 layout: page
 title: Dynamic Impacts of Personal Social Network on Language Learning Outcomes
 description: 
-img: assets/img/9.jpg
+img: assets/img/NSF.png
 importance: 2
 category: Current
 giscus_comments: true
