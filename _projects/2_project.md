@@ -1,8 +1,8 @@
 ---
 layout: page
 title: The Role of Exposure to Spanish-English Code-Switching
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description:
+img: assets/img/L2CS1.png
 importance: 1
 category: Current
 giscus_comments: true
