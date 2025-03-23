@@ -444,7 +444,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-analyzing-changes-in-vot-in-short-term-l2-learning-in-aging",
           title: 'Analyzing Changes in VOT in Short-Term L2 Learning in Aging',
-          description: "another project with an image 🎉",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
