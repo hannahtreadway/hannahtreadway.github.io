@@ -11,7 +11,7 @@ Language processing is an incremental and highly predictive process; parsers rel
 
 # Experiment 1
 
-In this study, we examine how attention modulates prediction in an eye-tracking visual world paradigm. In a between-participant manipulation, L1 English speakers (*n* = 120) are instructed to attend to either male or female actors in di-clausal sentences. For both groups, the initial verb was either predictive of a target noun (After Peter *answered* his phone, Mary sighed and produced her wallet) or non-predictive (After Peter *lost* his phone…). Predictive nouns were task-relevant for the male-attending group.
+In this study, we examine how attention modulates prediction in an eye-tracking visual world paradigm. In a between-participant manipulation, L1 English speakers (*n* = 120) are instructed to attend to either male or female actors in di-clausal sentences. For both groups, the initial verb was either predictive of a target noun (After Peter *answered* his phone, Mary sighed and produced her wallet) or non-predictive (After Peter *lost* his phone…). Predictive nouns were task-relevant for the male-attending group. **(Presented at FPM2024, [HSP2024](https://hsp2024.github.io/abstracts/submission_219.pdf), and [FPM2025](https://mll.fsu.edu/event/florida-psycholinguistics-meeting-2025))**
 
 # Experiment 2
 
