@@ -409,7 +409,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-the-role-of-exposure-to-spanish-english-code-switching",
           title: 'The Role of Exposure to Spanish-English Code-Switching',
-          description: "a project with a background image and giscus comments",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-attention-and-prediction-in-sentence-processing",
