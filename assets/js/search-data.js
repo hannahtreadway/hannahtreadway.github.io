@@ -432,9 +432,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-dynamic-impacts-of-personal-social-network-on-language-learning-outcomes",
+          title: 'Dynamic Impacts of Personal Social Network on Language Learning Outcomes',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
