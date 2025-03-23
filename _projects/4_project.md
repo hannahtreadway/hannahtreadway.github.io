@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: Community-Specific Code-Switching Norms and Online Comprehension in Spanish Heritage Speakers
 description: another without an image
 img:
 importance: 3
-category: fun
+category: Current
 ---
 
 Every project has a beautiful feature showcase page.
