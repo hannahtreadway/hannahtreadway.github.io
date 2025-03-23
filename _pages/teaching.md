@@ -41,7 +41,7 @@ Learning outcomes will include being able to articulate and understand conversat
 
 **Semester(s):** Fall 2022
 
-**About:** SPN 2200 sees you build on the skills you developed in beginning Spanish courses and work towards Intermediate-Low proficiency. That means that students will communicate using simple to sometimes complex sentences to talk about everyday life (including universal themes like family, love, social roles and issues, etc.). In your own and other cultures, you will make comparisons between products (things people create and use) and practices (what people do) to understand perspectives (what people believe and value). Such cultural competence and understanding will allow you to more effectively interact in Spanish in multilingual communities at home and around the world.
+**About:** SPN 2200 sees students build on the skills developed in beginning Spanish courses and work towards Intermediate-Low proficiency. That means that students will communicate using simple to sometimes complex sentences to talk about everyday life (including universal themes like family, love, social roles and issues, etc.). In their own and other cultures, students will make comparisons between products (things people create and use) and practices (what people do) to understand perspectives (what people believe and value). Such cultural competence and understanding will allow students to more effectively interact in Spanish in multilingual communities at home and around the world.
 
 ## SPN 1131: Beginning Spanish II
 **Role:** Instructor of Record
@@ -49,7 +49,7 @@ Learning outcomes will include being able to articulate and understand conversat
 **Semester(s):** Spring 2022, Summer B 2022, Summer B 2023
 
 **About:** By the end of SPN 1131, students will communicate using practiced words and phrases to talk about familiar topics related to
-school, home, and the community. You will further develop 21st Century Skills to function appropriately in Spanish in basic personal, academic, and career-related situations in multilingual communities at home and around the world.
+school, home, and the community. Students will further develop 21st Century Skills to function appropriately in Spanish in basic personal, academic, and career-related situations in multilingual communities at home and around the world.
 
 ## SPN 1130: Beginning Spanish I
 **Role:** Instructor of Record
