@@ -397,7 +397,12 @@ ninja.data = [{
             },},{id: "news-join-me-at-hsp2025-at-umd-for-my-presentation-on-recent-work-entitled-cognitive-control-adaptation-in-code-switching-an-erp-study",
           title: 'Join me at HSP2025 at UMD for my presentation on recent work entitled...',
           description: "",
-          section: "News",},{id: "projects-cognitive-control-adaptation-in-code-switching",
+          section: "News",},{id: "projects-sensitivity-to-code-switching-asymmetries-in-l2-sentence-processing",
+          title: 'Sensitivity to Code-Switching Asymmetries in L2 Sentence Processing',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-cognitive-control-adaptation-in-code-switching",
           title: 'Cognitive Control Adaptation in Code-Switching',
           description: "with background image",
           section: "Projects",handler: () => {
