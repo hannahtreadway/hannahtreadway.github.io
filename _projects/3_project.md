@@ -4,8 +4,8 @@ title: Attention and Prediction in Sentence Processing
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
-category: work
+importance: 2
+category: Current
 ---
 
 Every project has a beautiful feature showcase page.
