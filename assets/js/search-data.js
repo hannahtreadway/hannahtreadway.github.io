@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "This page is under construction. Come back soon!",
+          description: "Courses taught at the University of Florida organized by course level.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
