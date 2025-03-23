@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: This page is under construction. Come back soon!
+description: Courses taught at the University of Florida organized by course level.
 nav: true
 nav_order: 6
 ---
