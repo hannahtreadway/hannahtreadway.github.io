@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Attention and Prediction in Sentence Processing
-description: a project that redirects to another website
+description:
 img: assets/img/AttentionPrediction.png
 redirect:
 importance: 2
