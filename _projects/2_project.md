@@ -21,4 +21,5 @@ equivalents are categorically not produced with feminine Spanish determiners. **
 To ensure that the time course for environmental frequency effects is distinct from that of ungrammaticality for L2 learners, a follow-up study (* *n* *=43) in which the syntactically plausible bilingual compound verb of the form * *estar* * + V<sub>Prog</sub> is tested against
 the structurally disallowed switch * *haber* * + V<sub>Perf</sub>. If L2 learners show differential online sensitivity to grammatical violations and effects of environmental frequency, then the processing cost for the ungrammatical * *haber* * + V<sub>Perf</sub> form should emerge earlier than that for the syntactically plausible, but environmentally lacking, * *hacer* * + V<sub>Inf</sub> switch. **(Presented at [HSP2024](https://hsp2024.github.io/abstracts/submission_291.pdf) and [BilForum2024](https://bilforum.hip.uic.edu/program/))**
 
+View this project's [pre-registration](https://doi.org/10.17605/OSF.IO/7BZXE).
 Look out for a forthcoming publication in * *Isogloss* *!
