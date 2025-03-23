@@ -5,7 +5,7 @@ description:
 img: assets/img/CCCA.png
 importance: 1
 category: Current
-related_publications: true
+related_publications: false
 ---
 
 The resolution of temporary ambiguity in incremental sentence processing has been tentatively linked to the upregulation of domain general cognitive control. Real-time comprehension of intrasentential code-switching (CS) presents a compelling testbed for cognitive control in language processing as it may require that the bilingual parser engage in cross-linguistic conflict resolution. **Previous work finds that CS detection induces an upregulation of cognitive control that spills over to succeeding nonlinguistic tasks** (e.g., flanker
