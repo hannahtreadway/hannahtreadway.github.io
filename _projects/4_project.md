@@ -6,75 +6,10 @@ img: /assets/img/HSCS.png
 importance: 3
 category: Current
 ---
+Early Spanish-English bilinguals employ experiential knowledge of the differential production frequencies of code-switching (CS) in their linguistic environment to attenuate switch costs during online comprehension. To this point, such a finding has been attested for CS patterns which hold universally for Spanish-English bilingual communities. Do these bilinguals similarly use community-specific CS production frequencies to guide their online processing of CS? The present study seeks to characterize the utility of regional CS norms in this bilingual group’s online comprehension of switched structures, offering a more precise account of that which drives CS costs.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The distributional production frequencies of some CS structures remain stable between disparate bilingual speech communities, while others are dependent on local production preferences. For instance, Spanish-English code-switchers from the southeastern U.S. favor switching between the auxiliary verb *estar* and an English present participle (*estar* + V<sub>Prog</sub>) while categorically rejecting switches between the light verb hacer and an English lexical infinitive (*hacer* + <sub>VInf</sub>), in spite of the light verb switch’s syntactic plausibility and attestation in the CS of other Spanish-English communities. In this study, we test early bilinguals from the southeastern U.S. in a reading-while-eye-tracking paradigm to see whether community preferences appear in online processing patterns.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+We expect that, like L2 learners, early Spanish-English bilinguals will be sensitive to the distributional production frequencies of CS specific to their bilingual community; however, the time course of said online sensitivity for this group remains uncertain. If processing costs are observed during measures of earlier stage processing, this suggests that active and passive exposure to CS production frequencies have disparate ramifications for online sentence processing; if they are instead observed during later stage processing, then it would seem that processing latencies due to environmental exposure are categorically realized during later, more effortful processing. **(Presented at [BilForum2024](https://bilforum.hip.uic.edu/program/))**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Funding Sources: This work is supported by the UF CLAS Scholars Program.
