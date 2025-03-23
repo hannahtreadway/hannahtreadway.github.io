@@ -422,8 +422,8 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
+            },},{id: "projects-new-language-training-promotes-neurocognitive-resilience-in-aging",
+          title: 'New Language Training Promotes Neurocognitive Resilience in Aging',
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
