@@ -414,7 +414,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-attention-and-prediction-in-sentence-processing",
           title: 'Attention and Prediction in Sentence Processing',
-          description: "a project that redirects to another website",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-online-comprehension-of-community-specific-code-switching-norms-in-spanish-heritage-speakers",
