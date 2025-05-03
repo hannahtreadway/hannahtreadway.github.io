@@ -32,7 +32,7 @@ Learning outcomes will include being able to articulate and understand conversat
 ## SPN 2271: Intensive Intermediate Spanish (UF in Costa Rica)
 **Role:** Instructor of Record
 
-**Semester(s):** Summer B 2025
+**Semester(s):** Summer A 2025
 
 **About:** More information coming soon!
 
