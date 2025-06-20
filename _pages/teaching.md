@@ -14,6 +14,14 @@ nav_order: 6
 
 **About:** The objective of this course is to offer an introduction to the principal areas of Hispanic linguistics. Several themes are covered, including the sounds of Spanish (phonetics and phonology), the formation and internal structure of words (morphology), the internal structure of phrases and sentences (syntax), the history and evolution of Spanish, language variation (dialectology and sociolinguistics), and the acquisition of first and additional languages.
 
+## SPN 3573: Immersion in a Hispanic Community (UF in Costa Rica)
+**Role:** TA
+
+**Semester(s):** Summer A 2025
+
+**About:** This course offers a structured academic experience in Costa Rica, combining community-engaged learning with cultural immersion. Students participate in organized service activities that address identified community needs, collaborating with local organizations in fields such as education, healthcare, arts, environment, and community development. Through direct interaction and cross-cultural dialogue, students gain firsthand insight into Costa Rican society while contributing meaningfully to community initiatives. Students are required to
+complete a total of 45 service hours over the six-week program. Students will connect their experiences with academic content, develop a deeper understanding of global and intercultural issues, and critically engage with social challenges. By integrating service with learning, students broaden their appreciation of the host country and discipline while strengthening their sense of civic responsibility—both locally and globally.
+
 ## SPN 3036: Spanish for the Health Professions
 **Role:** TA
 
@@ -34,7 +42,26 @@ Learning outcomes will include being able to articulate and understand conversat
 
 **Semester(s):** Summer A 2025
 
-**About:** More information coming soon!
+**About:** The primary goal of SPN 2271 is for students to acquire effective intermediate communicative skills in Spanish by
+consolidating the skills learned at the introductory level and by learning structures, vocabulary, and cultural
+competency required for service work in an immersed setting abroad. The course covers two semesters' worth of academic content in a six-week intensive program.
+
+This course focuses on the development of 21st Century Skills to equip students with competencies and tools needed to succeed in both personal and professional endeavors beyond the classroom. 21st Century Skills are categorized into three core areas:
+
+1.	Learning skills (including critical thinking, creativity, collaboration, and communication)
+2.	Literacy skills (including information, media, and technology literacy)
+3.	Life skills (including flexibility, leadership, initiative, productivity, and social skills)
+
+Thus, with these objective development areas in mind, Intensive Intermediate Spanish expects students to:
+
+- Communicate and collaborate in Spanish
+- Demonstrate the flexibility and social skills necessary to navigate diverse communicative situations
+- Apply critical thinking and creativity to interpret and produce written, oral, and multimedia texts in Spanish
+- Use digital tools and resources to develop media and information literacy in Spanish
+- Take initiative in their learning by setting personal language and participation goals and reflecting on their progress
+- Develop leadership and productivity skills through group work, peer feedback, and classroom engagement
+- Strengthen their intercultural awareness and competence to function effectively in a global society
+
 
 ## SPN 2200: Intermediate Spanish I
 **Role:** Instructor of Record
