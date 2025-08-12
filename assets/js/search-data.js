@@ -68,7 +68,7 @@ ninja.data = [{
           section: "News",},{id: "news-thankful-to-have-been-granted-the-uf-department-of-spanish-and-portuguese-studies-contraseña-fund-award-to-attend-the-ninth-summer-school-on-statistical-methods-for-linguistics-and-psychology-in-potsdam-germany-this-august",
           title: 'Thankful to have been granted the UF Department of Spanish and Portuguese Studies...',
           description: "",
-          section: "News",},{id: "news-just-returned-from-six-weeks-teaching-with-uf-in-costa-rica-cultivating-community-through-service-learning-leaving-san-josé-with-wonderful-new-lifelong-friendships-and-students-with-a-new-outlook-on-cross-cultural-collaboration",
+          section: "News",},{id: "news-just-returned-from-six-weeks-teaching-with-uf-in-costa-rica-cultivating-community-through-service-learning-leaving-san-josé-with-new-lifelong-friendships-and-students-with-a-fresh-outlook-on-cross-cultural-collaboration",
           title: 'Just returned from six weeks teaching with UF in Costa Rica: Cultivating Community...',
           description: "",
           section: "News",},{id: "news-hope-to-connect-with-many-of-you-next-week-at-amlap2025-come-see-my-talk-entitled-cognitive-control-adaptation-in-code-switching-an-erp-study-where-we-present-updated-erp-tfr-and-individual-differences-analyses-of-work-originally-presented-at-hsp2025",
