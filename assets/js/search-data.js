@@ -80,7 +80,7 @@ ninja.data = [{
           section: "News",},{id: "news-reflecting-on-my-final-day-in-the-advanced-frequentist-course-at-the-ninth-summer-school-on-statistical-methods-for-linguistics-and-psychology-at-the-university-of-potsdam-in-potsdam-germany-photos-and-major-takeaways-soon-to-come",
           title: 'Reflecting on my final day in the Advanced Frequentist course at the Ninth...',
           description: "",
-          section: "News",},{id: "news-looking-forward-to-meeting-up-with-many-of-you-at-snl2025-later-this-week-stop-by-at-my-posters-entitled-the-neural-bases-of-theory-of-mind-the-role-of-language-profile-and-new-language-training-promotes-neurocognitive-resilience-in-healthy-aging",
+          section: "News",},{id: "news-looking-forward-to-meeting-up-with-many-of-you-at-snl2025-later-this-week-stop-by-at-my-posters-entitled-the-neural-bases-of-theory-of-mind-the-role-of-language-profile-and-new-language-training-promotes-neurocognitive-resilience-in-healthy-aging-my-work-is-being-sponsored-by-a-travel-award-from-the-university-of-florida-center-for-cognitive-aging-and-memory-cam-excited-to-represent-the-work-being-done-at-the-cam-center",
           title: 'Looking forward to meeting up with many of you at SNL2025 later this...',
           description: "",
           section: "News",},{id: "news-looking-forward-to-serving-the-language-science-community-this-year-as-junior-member-of-the-executive-committee-of-the-society-for-human-sentence-processing-stay-tuned-for-upcoming-event-announcements",
