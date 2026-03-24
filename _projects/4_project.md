@@ -12,6 +12,6 @@ The distributional production frequencies of some CS structures remain stable be
 
 We expect that, like L2 learners, early Spanish-English bilinguals will be sensitive to the distributional production frequencies of CS specific to their bilingual community; however, the time course of said online sensitivity for this group remains uncertain. If processing costs are observed during measures of earlier stage processing, this suggests that active and passive exposure to CS production frequencies have disparate ramifications for online sentence processing; if they are instead observed during later stage processing, then it would seem that processing latencies due to environmental exposure are categorically realized during later, more effortful processing. **(Presented at [BilForum2024](https://bilforum.hip.uic.edu/program/).)**
 
-Look out for a forthcoming article in the *UF Journal of Undergraduate Research*!
+This work has been published in the [*UF Journal of Undergraduate Research*](https://doi.org/10.32473/ufjur.27.138822). Additional data collection was completed to submit in a  manuscript in preparation.
 
 Funding Sources: This work is supported by the UF CLAS Scholars Program.
