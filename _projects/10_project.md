@@ -20,4 +20,4 @@ questions. Another L2 Spanish group that completed forced-choice grammaticality 
 did not show sensitivity to the same asymmetry. We interpret our findings to point towards an important role for experience with exposure 
 to community-based code-switching patterns to successfully acquire and deploy during online sentence processing.
 
-Look out for a forthcoming book chapter on this work!
+Read more in our chapter in [*Current insights into code-switching*](https://langsci-press.org/catalog/book/522).
