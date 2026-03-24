@@ -23,4 +23,4 @@ the structurally disallowed switch *haber* + V<sub>Perf</sub>. If L2 learners sh
 
 View this project's [pre-registration](https://doi.org/10.17605/OSF.IO/7BZXE).
 
-Look out for a forthcoming publication in *Isogloss*!
+The first experiment of this study is now available in [*Isogloss*](https://revistes.uab.cat/isogloss/article/view/v11-n4-treadway-higdon-valdeskroff). A manuscript containing both experiments is currently in preparation.
