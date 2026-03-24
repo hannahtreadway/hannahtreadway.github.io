@@ -1,10 +1,10 @@
 ---
 layout: cv
-permalink: /assets/pdf/TreadwayCV_March2026.pdf
+permalink: /assets/pdf/TreadwayCV_24March2026.pdf
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: TreadwayCV_March2026.pdf # you can also use external links here
+cv_pdf: TreadwayCV_24March2026.pdf # you can also use external links here
 description:
 toc:
   sidebar: left
