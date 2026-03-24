@@ -15,6 +15,6 @@ In this study, we examine how attention modulates prediction in an eye-tracking 
 
 # Experiment 2
 
-In this follow-up experiment, we explore how a secondary task of prediction confidence self-rating might impact the rate of prediction in participants (*n* = 60). Data collection for this experiment is underway.
+In this follow-up experiment, we explore how a secondary task of prediction confidence self-rating might impact the rate of prediction in participants (*n* = 60). **(Presented at [FLYM2025](https://lin.ufl.edu/flym2025/) and [HSP2026](https://hsp2026.org/abstracts/submission_34.pdf).)**
 
-View this project's [pre-registration](https://osf.io/63xr2/registrations).
+View this project's [pre-registration, open-source materials, and open-source analysis pipelines](https://osf.io/63xr2/registrations). The manuscript for this study is in preparation for submission.
