@@ -30,6 +30,17 @@ complete a total of 45 service hours over the six-week program. Students will co
 **About:** The objectives of this course are to learn the terminology and expressions related to the human body and its functioning, medicine, and the patient-healthcare professional relationship; to develop linguistic and communicative competence by practicing oral production and listening comprehension skills; and to recognize/discern cultural cues that distinguish the attitudes, expectations, and point of view of Spanish speakers regarding medical emergencies, illnesses, treatments, and interactions with healthcare professionals.
 Learning outcomes will include being able to articulate and understand conversations using medical expressions and terminology; performing basic healthcare professional functions such as conducting interviews, taking medical histories, performing physical examinations, taking family medical history, and communicating diagnoses and treatment; and being able to articulate, analyze, and apply their knowledge of intercultural issues.
 
+## IDS 2935: Multilingual AI
+**Role:** TA
+
+**Semester(s):** Fall 2026
+
+**About:** We are living in a moment of unprecedented growth in the use of AI tools which are quickly appearing in all of our personal, workplace, and educational spaces. At the same time, one of the unique features of our humanity is the linguistic diversity and contact across the world, leading to multilingual interactions and multilingual speakers, including through translation and/or interpretation. The fundamental pressing question that we will investigate in this course is: “what do we lose and gain through the unhindered use of AI as a substitute for multilingual interactions?” 
+
+AI tools such as Google Translate or Linguee seemingly make the task of communicating with individuals across languages and cultures an effortless task. Nevertheless, now decades of research in psycholinguistics and cognitive psychology point towards cognitive benefits such as cognitive resilience, improved cognitive control, and even brain adaptations to help delay the onset of dementia. Does replacing the human ability to learn multiple languages with AI remove our access to reaping these cognitive benefits? We will use theories and methodologies from the Social and Behavioral Sciences through readings in ethics, psycholinguistics, cognitive psychology, natural language processing, and sociology to critically evaluate and analyze the role of AI in our lives using multilingualism as the case study. 
+
+This honors course will be of interest to students seeking to increase their understanding of how Large Language Models function and the science underlying multilingualism, translation, and interpretation. Students do not need to be multilingual or have a prior understanding of AI to benefit from this course. By the end of this course, students will have greater AI literacy and become informed consumers of social and behavioral science research, leading to greater agency in making ethical decisions in the appropriate use of AI in their lives. 
+
 ## SPN 2340: Introduction to Reading and Writing for Spanish Heritage Speakers
 **Role:** Instructor of Record/Lead Instructor
 
