@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/TreadwayCV_June2026.pdf";
+            window.location.href = "/assets/pdf/TreadwayCV_August2026.pdf";
           },
         },{id: "nav-projects",
           title: "projects",
