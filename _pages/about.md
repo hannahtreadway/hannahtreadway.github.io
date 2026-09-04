@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: bilingual sentence processing | code-switching | bilingualism & cognition across the lifespan
+subtitle: bilingualism | code-switching | language experience & cognition
 
 profile:
   align: right
@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year PhD candidate in Hispanic Linguistics at the [University of Florida](https://spanishandportuguese.ufl.edu/graduate-programs/hispanic-linguistics-2/) where I am co-advised by [Dr. Jorge Valdés Kroff](https://people.clas.ufl.edu/jvaldeskroff/) and [Dr. Edith Kaan](https://people.clas.ufl.edu/kaan/). I conduct research in the [Bilingual Sentence Processing Lab](https://bsplab.clas.ufl.edu/) and the [Brain, Language, and Bilingualism Lab](https://blab.lin.ufl.edu/).
+I am a fourth-year PhD candidate in Hispanic Linguistics at the [University of Florida](https://spanishandportuguese.ufl.edu/graduate-programs/hispanic-linguistics-2/) where I am co-advised by [Dr. Jorge Valdés Kroff](https://people.clas.ufl.edu/jvaldeskroff/) and [Dr. Edith Kaan](https://people.clas.ufl.edu/kaan/). I conduct research in the [Bilingual Sentence Processing Lab](https://bsplab.clas.ufl.edu/) and the [Brain, Language, and Bilingualism Lab](https://blab.lin.ufl.edu/).
 
-I use psycho-/neurolinguistic methods like eye-tracking and EEG to investigate the cognitive processes underlying (bilingual) language processing and code-switching. My work also considers how bilingualism might be modulatory of or interact with domain-general abilities, such as conflict adaptation, attention, Theory of Mind, and even working memory in cognitive decline. At its core, my research is concerned with characterizing how the experiential dimensions of bilingualism and language use impact real-time language processing and cognitive mechanism recruitment.
+My work adopts a context-to-cognition framework to study bilingualism. Integrating methods from sociolinguistics (e.g., corpora, personal social network analysis), psycholinguistics (e.g., eye-tracking and self-paced reading), and cognitive neuroscience (e.g., event-related potentials and oscillations), my research maps the structure of situated language use onto adaptation in bilingual language processing, with a particular focus on code-switching. My work also considers how variability in the bilingual experience across the lifespan manifests as cognitive adaptation to attention, memory, cognitive control, and Theory of Mind. At the broadest level, my research program advocates for contextualized understandings of interaction, cognition, and computation.
