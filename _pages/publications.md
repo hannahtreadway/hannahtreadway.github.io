@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: This page is under construction. Come back soon!
+description: For a full list of papers in preparation, under review, and in press, please consult my CV.
 nav: true
 nav_order: 5
 ---
