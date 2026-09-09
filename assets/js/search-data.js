@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "This page is under construction. Come back soon!",
+          description: "For a full list of papers in preparation, under review, and in press, please consult my CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses taught at the University of Florida organized by course level.",
+          description: "Courses organized by course level.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -176,7 +176,14 @@ ninja.data = [{
         title: 'Open Science Framework',
         section: 'Socials',
         handler: () => {
-          window.open("https://osf.io/osf.io/8fydm/", "_blank");
+          window.open("https://osf.io/8fydm/", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=UNCMl0QAAAAJ", "_blank");
         },
       },{
         id: 'social-custom_social',
