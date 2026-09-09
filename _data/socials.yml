@@ -25,13 +25,15 @@ email: treadwayhannah@ufl.edu # your email address
 # medium_username: # your Medium username
 orcid_id: 0000-0001-6244-7674
 # your ORCID ID
-osf_id: 8fydm # your OSF ID
+osf_id: 8fydm
+# your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # set to true to show the RSS icon
- scholar_userid: UNCMl0QAAAAJ # your Google Scholar ID
+ scholar_userid: UNCMl0QAAAAJ
+# your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
