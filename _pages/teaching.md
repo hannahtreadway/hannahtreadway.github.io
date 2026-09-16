@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## Summer Course: Cómo investigar con corpus (How to conduct research using corpora)
+## *Cómo investigar con corpus* (How to conduct research using corpora)
 **Role:** Co-Instructor
 
 **Semester(s):** Summer 2026
