@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Updates coming soon!
+description: Updates coming soon! For latest information about ongoing projects, please see the CV tab.
 nav: true
 nav_order: 3
 display_categories: [Current, Completed]
