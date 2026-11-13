@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Planning to be in San Diego for Psychonomics 2026https://www.psychonomic.org/page/2026annualmeeting? Be sure to stop by my talk on experience-driven adaptation in code-switching processing and my poster on the neural signatures of Theory of Mind across language profiles!
+Planning to be in San Diego for [Psychonomics 2026](https://www.psychonomic.org/page/2026annualmeeting)? Be sure to stop by my talk on experience-driven adaptation in code-switching processing and my poster on the neural signatures of Theory of Mind across language profiles!
