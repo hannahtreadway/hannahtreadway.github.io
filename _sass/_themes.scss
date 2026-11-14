@@ -123,7 +123,7 @@ html[data-theme="dark"] {
   }
 
   // Keep the custom Bluesky logo visible against the dark background.
-  .social .contact-icons a[title="Bluesky"] svg {
+  .social .contact-icons a[title="Bluesky"] {
     filter: invert(1);
   }
 }
