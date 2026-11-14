@@ -121,6 +121,11 @@ html[data-theme="dark"] {
   .only-dark {
     display: block;
   }
+
+  // Keep the custom Bluesky logo visible against the dark background.
+  .social .contact-icons a[title="Bluesky"] svg {
+    filter: invert(1);
+  }
 }
 
 html[data-theme-setting="dark"] {
