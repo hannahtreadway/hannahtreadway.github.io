@@ -2,7 +2,7 @@
 layout: page
 title: The Role of Exposure to Spanish-English Code-Switching
 description:
-img: assets/img/L2CS1.png
+img: assets/img/Experience-Based_2026.png
 importance: 1
 category: Current
 giscus_comments: false
