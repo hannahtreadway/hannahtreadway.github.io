@@ -2,7 +2,7 @@
 layout: page
 title: Sensitivity to Code-Switching Asymmetries in L2 Sentence Processing
 description:
-img: assets/img/L2CS2.png
+img: assets/img/CSChapter_2026.png
 importance: 1
 category: Completed
 ---
