@@ -2,7 +2,7 @@
 layout: page
 title: Attention and Prediction in Sentence Processing
 description:
-img: assets/img/AttentionPrediction.png
+img: assets/img/A&P_2026.png
 redirect:
 importance: 2
 category: Current
