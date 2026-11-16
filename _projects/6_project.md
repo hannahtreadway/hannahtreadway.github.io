@@ -2,7 +2,7 @@
 layout: page
 title: New Language Training Promotes Neurocognitive Resilience in Aging
 description:
-img: /assets/img/CAM.png
+img: /assets/img/CAM_2026.png
 importance: 3
 category: Current
 ---
