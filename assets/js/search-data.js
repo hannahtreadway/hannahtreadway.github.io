@@ -127,13 +127,13 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-cognitive-control-adaptation-in-code-switching",
+          title: 'Cognitive Control Adaptation in Code-Switching',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-the-role-of-exposure-to-spanish-english-code-switching",
-          title: 'The Role of Exposure to Spanish-English Code-Switching',
+            },},{id: "projects-experience-based-adaptation-in-spanish-english-code-switching-processing",
+          title: 'Experience-based adaptation in Spanish-English code-switching processing',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
