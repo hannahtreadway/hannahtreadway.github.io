@@ -142,11 +142,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-online-comprehension-of-community-specific-code-switching-norms-in-spanish-heritage-speakers",
-          title: 'Online Comprehension of Community-Specific Code-Switching Norms in Spanish Heritage Speakers',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-effects-of-perceived-accent-on-code-switching-processing",
           title: 'Effects of Perceived Accent on Code-Switching Processing',
           description: "",
