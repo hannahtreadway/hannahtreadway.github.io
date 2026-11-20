@@ -157,8 +157,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-the-neural-bases-of-theory-of-mind-in-bilinguals",
-          title: 'The Neural Bases of Theory of Mind in Bilinguals',
+            },},{id: "projects-the-neural-bases-of-theory-of-mind-across-language-profiles",
+          title: 'The Neural Bases of Theory of Mind Across Language Profiles',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
