@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Investigating Cognitive Control Adaptation in Code-Switching: An ERP Study
+title: Cognitive Control Adaptation in Code-Switching
 description:
 img: assets/img/CSFlanker.png
 importance: 1
