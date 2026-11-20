@@ -2,10 +2,10 @@
 layout: page
 title: Attention and Prediction in Sentence Processing
 description:
-img: assets/img/A&P_2026.png
+img: assets/img/A&P.png
 redirect:
 importance: 2
-category: Current
+category: Completed
 ---
 Language processing is an incremental and highly predictive process; parsers rely on contextual information to pre-activate upcoming linguistic input. Certain factors (e.g., attentional demand) have been shown to modulate predictive processing, with parsers aiming for “optimal efficiency” by balancing the costs of prediction with other tasks. How might parsers in highly constraining contexts respond when attentional demands alter prediction’s task-relevance?
 
@@ -17,4 +17,4 @@ In this study, we examine how attention modulates prediction in an eye-tracking 
 
 In this follow-up experiment, we explore how a secondary task of prediction confidence self-rating might impact the rate of prediction in participants (*n* = 60). **(Presented at [FLYM2025](https://lin.ufl.edu/flym2025/) and [HSP2026](https://hsp2026.org/abstracts/submission_34.pdf).)**
 
-View this project's [pre-registration, open-source materials, and open-source analysis pipelines](https://osf.io/63xr2/registrations). The manuscript for this study is in preparation for submission.
+View this project's [pre-registration, open-source materials, and open-source analysis pipelines](https://osf.io/63xr2/registrations). This work is now available as a [preprint](https://osf.io/preprints/psyarxiv/f2a9x_v2).
