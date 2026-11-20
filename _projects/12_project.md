@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BabelBrain: Mapping Multilingual Ecologies
+title: BabelBrain Mapping Multilingual Ecologies
 description:
 img: assets/img/BabelBrain.png
 importance: 2
