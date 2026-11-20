@@ -4,7 +4,7 @@ title: BabelBrain Mapping Multilingual Ecologies
 description:
 img: assets/img/BabelBrain.png
 importance: 2
-category: Curren
+category: Current
 ---
 
 The Babel brain: Mapping multilingual ecologies ([BabelBrain](https://gramatica.usc.es/en/projects/39)) is a research project focused on investigating multilingual practices within two understudied communities on the Iberian Peninsula: Galicia and Gibraltar. A common characteristic of both communities is that one of the languages involved is experiencing a decline in the number of speakers (Galician in Galicia and Spanish in Gibraltar).
