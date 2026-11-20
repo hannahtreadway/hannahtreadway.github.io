@@ -2,7 +2,7 @@
 layout: page
 title: The Neural Bases of Theory of Mind Across Language Profiles
 description:
-img: assets/img/ToM.png
+img: assets/img/ToM_2026.png
 importance: 5
 category: Current
 related_publications: false
