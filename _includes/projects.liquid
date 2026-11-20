@@ -1,7 +1,33 @@
+<style>
+  /* Consistent project cover area without cropping any artwork. */
+  .projects .project-cover {
+    width: 100%;
+    aspect-ratio: 1755 / 896;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .projects .project-cover figure,
+  .projects .project-cover picture {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+  }
+  .projects .project-cover img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+  }
+</style>
 <div class="col">
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
     <div class="card h-100 hoverable">
       {% if project.img %}
+        <div class="project-cover">
         {%
           include figure.liquid
           loading="eager"
@@ -10,6 +36,7 @@
           alt="project thumbnail"
           class="card-img-top"
         %}
+        </div>
       {% endif %}
       <div class="card-body">
         <h2 class="card-title">{{ project.title }}</h2>
