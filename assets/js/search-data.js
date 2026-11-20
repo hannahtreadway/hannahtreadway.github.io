@@ -132,8 +132,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-babelbrain-mapping-multilingual-ecologies",
+          title: 'BabelBrain Mapping Multilingual Ecologies',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
