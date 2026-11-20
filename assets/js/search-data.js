@@ -137,6 +137,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
+            },},{id: "projects-resting-state-microstate-dynamics-predict-behavioral-and-neural-efficiency-during-working-memory-processing-in-healthy-aging",
+          title: 'Resting-State Microstate Dynamics Predict Behavioral and Neural Efficiency During Working Memory Processing in...',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_project/";
             },},{id: "projects-cognitive-control-adaptation-in-code-switching",
           title: 'Cognitive Control Adaptation in Code-Switching',
           description: "",
