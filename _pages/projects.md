@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Only projects actively contributing output are mentioned here. Send me a message to hear more about new and ongoing projects!
+description: Only projects with available output are mentioned here. Send me a message to hear more about new and ongoing projects!
 nav: true
 nav_order: 3
 display_categories: [Current, Completed]
