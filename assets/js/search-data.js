@@ -127,8 +127,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-cognitive-control-adaptation-in-code-switching",
-          title: 'Cognitive Control Adaptation in Code-Switching',
+            },},{id: "projects-",
+          title: '',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
